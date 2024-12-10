@@ -154,6 +154,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+
+
+# Ignore dataset and related folders
+/storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/dataset/
+/storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/img_save/
+/storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/logs/
+/storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/net_logs/
+/storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/P25-_train_all/model_pth/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
