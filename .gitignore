@@ -155,7 +155,6 @@ dmypy.json
 cython_debug/
 
 
-
 # Ignore dataset and related folders
 /storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/dataset/
 /storage/pt/AW_STUDY/pytorch-tutorial-tudui/study_self/img_save/
